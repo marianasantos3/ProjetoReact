@@ -1,0 +1,111 @@
+.Main{
+  background-color: #000;
+}
+
+.Cabecalho{
+  position: relative;
+  width: 100%;
+  height: 70px;
+  background-color:rgb(107, 158, 241);
+
+}
+.Cabecalho h1{
+  color: #000;
+  font-size:larger;
+  margin-left: 40%;
+  margin-top: 0px;
+} 
+
+.Menu button{
+  margin-left: 80%;
+  background-color:rgb(107, 158, 241);
+  border: #000 solid 3px;
+  border-radius: 10%;
+  height: 30px;
+  margin-top: -20%;
+}
+
+.Galeria{
+  width: 79%;
+  height: 800px;
+  margin-left: 10%;
+  background-image: url(simpsons3.jpg);
+
+}
+
+.Galeria1{
+  width: 50%;
+  height: 190px;
+  margin-left: 25%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color:#fff
+}
+
+.Conteudo{
+  font-family:'Times New Roman', Times, serif;
+  color: aqua;
+  text-align: center;
+
+}
+
+.Modo{
+  width: 65%;
+  height: 500px;
+  margin-left: 15%;
+  background-image: url(futuramaa.jpg);
+  
+}
+
+
+.Modo2{
+  width: 30%;
+  height: 260px;
+  margin-left: 11%;
+  border-radius: 3%;
+  background-image: url(reileao.webp);
+
+}
+
+.Modo3{
+  width: 43%;
+  height: 300px;
+  margin-left: 45%;
+  margin-top: -17%;
+  border-radius: 3%;
+  display: inline-block;
+  background-image: url(turmada.jpg);
+}
+
+.Modo4{
+  width: 50%;
+  height: 190px;
+  margin-left: 25%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color:#fff
+
+}
+
+
+.Rodape{
+  position: relative;
+  width: 100%;
+  height: 150px;
+  background-color:rgb(107, 158, 241);
+  
+}
+
+.Rodape h3{
+  position: relative;
+  color:aqua;
+  font-size: medium;
+  margin-left: 40%;
+  
+}
+
+.Rodape h1{
+  position: relative;
+  color: #fff;
+  font-size:smaller;
+  
+  
+}
